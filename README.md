@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sushil Yadav</h1>
 <h3 align="center">A passionate Magento and Shopify developer!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anandpatel504&label=Profile%20views&color=0e75b6&style=flat" alt="anandpatel504" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anandpatel504&label=Profile%20views&color=0e75b6&style=flat" alt="sssushil3349" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandpatel504" alt="anandpatel504" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sssushil3349" alt="sssushil3349" /></a> </p>
 
-[![Website](https://img.shields.io/website?label=navgurukulLite&style=for-the-badge&url=https%3A%2F%2Fhttps://anand18.firebaseapp.com)](https://anand18.firebaseapp.com)
+[![Website](https://img.shields.io/website?label=Borntechies Pvt Ltd&style=for-the-badge&url=https%3A%2F%2Fhttps://anand18.firebaseapp.com)](https://anand18.firebaseapp.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/anandpatel504?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcanandpatel504&screen_name=anandpatel504)
 
 - 🔭 I’m currently working on [Meraki](https://borntechies.com)
