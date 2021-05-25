@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **everything 🤣**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sssuhil3349](https://github.com/sssuhil3349)
+- 👨‍💻 All of my projects are available at [https://github.com/sssuhil3349](https://github.com/sushilcoder504)
 
 - 📝 I regularly write articles on [https://sushilcoder504.medium.com/](https://sushilcoder504.medium.com/)
 
 - 💬 Ask me about **Magento, mysql and Shopify**
 
-- 📫 How to reach me **sssushil3349@gmail.com**
+- 📫 How to reach me **sushilcoder504@gmail.com**
 <!---
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jRjhYBC7hQD8fiv-2p5hSoL4iQnPwJGb/view?usp=sharing](https://drive.google.com/file/d/1jRjhYBC7hQD8fiv-2p5hSoL4iQnPwJGb/view?usp=sharing)
 -->
